@@ -7,8 +7,8 @@ http://blog.lyhdev.com/2013/10/ubuntu-linux-sublime-text-2.html
 sudo add-apt-repository ppa:webupd8team/sublime-text-2 
 sudo apt-get update
 sudo apt-get install sublime-text
-安裝 Sublime Text 3：
 
+安裝 Sublime Text 3：
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
 sudo apt-get install sublime-text-installer
