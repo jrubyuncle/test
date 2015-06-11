@@ -1,4 +1,9 @@
 test
+
+[install addition]
+cd /media/user/VBOXADDITIONS_x.x.x
+sudo ./VBoxLinuxAdditions.run
+
 [sublime]
 
 http://blog.lyhdev.com/2013/10/ubuntu-linux-sublime-text-2.html
